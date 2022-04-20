@@ -2,7 +2,7 @@
 #
 #HWDEF      HWDEF
 package-file    package-file
-bootloader  Image/MiniLoaderAll.bin
+bootloader  Image/rk3588_spl_loader.bin
 parameter   Image/rk3588_parameter.txt
 #trust      Image/trust.img
 uboot       Image/uboot.img
