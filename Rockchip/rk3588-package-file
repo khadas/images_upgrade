@@ -6,7 +6,7 @@ bootloader  Image/rk3588_spl_loader.bin
 parameter   Image/rk3588_parameter.txt
 #trust      Image/trust.img
 uboot       Image/uboot.img
-misc        Image/misc.img
+#misc        Image/misc.img
 #resource   Image/resource.img
 #kernel     Image/kernel.img
 #boot        Image/boot.img
