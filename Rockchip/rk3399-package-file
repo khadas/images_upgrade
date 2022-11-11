@@ -9,6 +9,6 @@ resource       Image/resource.img
 #boot            Image/boot.img
 #oem             Image/oem.img
 #recovery       Image/recovery.img
-rootfs:bootable:grow     Image/rootfs.img
+rootfs     Image/rootfs.img
 
 
