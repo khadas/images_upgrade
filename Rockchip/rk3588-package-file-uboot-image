@@ -1,0 +1,17 @@
+# NAME      Relative path
+#
+#HWDEF      HWDEF
+package-file    package-file
+bootloader  Image/rk3588_spl_loader.bin
+parameter   Image/rk3588_parameter.txt
+#trust      Image/trust.img
+uboot       Image/uboot.img
+#misc        Image/misc.img
+#resource   Image/resource.img
+#kernel     Image/kernel.img
+#boot        Image/boot.img
+#recovery    Image/recovery.img
+#rootfs      Image/rootfs.img
+#oem     Image/oem.img
+#userdata    Image/userdata.img
+#rootfs:bootable:grow     Image/rootfs.img
