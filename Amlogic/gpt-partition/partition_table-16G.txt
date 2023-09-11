@@ -1,0 +1,5 @@
+//partitionName,startsddr,size,partitionGap,attr
+//ab don't need cache, but dts part will add 8M for it
+reserved,36M,64M,8M,0
+env,-,8M,8M,0
+rootfs,-,13436M,8M,0x0004
