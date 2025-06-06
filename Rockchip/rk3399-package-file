@@ -3,8 +3,8 @@ bootloader      Image/MiniLoaderAll.bin
 parameter       Image/parameter.txt
 trust           Image/trust.img
 uboot           Image/uboot.img
-misc           Image/misc.img
-resource       Image/resource.img
+#misc           Image/misc.img
+#resource       Image/resource.img
 #kernel         Image/kernel.img
 #boot            Image/boot.img
 #oem             Image/oem.img
